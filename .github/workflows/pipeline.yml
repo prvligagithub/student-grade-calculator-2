@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: 24mis0392/student-grade-calculator:v1
+          tags: 24mis0392/student-grade-calculator:v2
